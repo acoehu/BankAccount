@@ -1,0 +1,12 @@
+Name: Phong
+SSN: 1
+Email: acoehu123@gmail.com
+NAccounts: 2
+AccountNo: acoehuSaving
+Balance: 0
+TypeofAccount: Saving
+AccountNo: acoehuChecking
+Balance: 3204
+TypeofAccount: Checking
+
+

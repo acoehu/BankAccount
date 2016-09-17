@@ -1,0 +1,11 @@
+WELCOME TO BANK ABCXYZ
+============================
+Please select one of the option below:
+1. Add a new user
+2. Add a new account to an existing user
+3. Deposit money to an existing account
+4. Withdraw money from an existing account
+5. Print all users’ name who has at least one saving account which has more than 1000 dollars.
+6. Print all users’ name who has at least one checking account which has more than 1000 dollars.
+7. Print an user’s data
+8. Exit the program
