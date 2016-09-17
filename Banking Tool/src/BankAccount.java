@@ -11,20 +11,17 @@ public class BankAccount {
 
 	//@Override
 	public String getType() {
-		// TODO Auto-generated method stub
 		if (type == 1) return "Checking";
 		else return "Saving";
 	}
 
 	//@Override
 	public void deposit(int money) {
-		// TODO Auto-generated method stub
 		this.balance += money;
 	}
 
 	//@Override
 	public void withdraw(int money) {
-		// TODO Auto-generated method stub
 		this.balance -= money;
 		
 	}
